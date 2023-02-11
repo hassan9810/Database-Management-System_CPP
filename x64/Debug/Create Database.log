@@ -1,0 +1,5 @@
+﻿  Queries.cpp
+D:\ITI\Professional Web Development & BI\Mansoura\Object Oriented Programming (OOP)\DBMS Project\Create Database\Database.h(108,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ITI\Professional Web Development & BI\Mansoura\Object Oriented Programming (OOP)\DBMS Project\Create Database\Database.h(111,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ITI\Professional Web Development & BI\Mansoura\Object Oriented Programming (OOP)\DBMS Project\Create Database\Queries.cpp(113,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Create Database.vcxproj -> D:\ITI\Professional Web Development & BI\Mansoura\Object Oriented Programming (OOP)\DBMS Project\Create Database\x64\Debug\Create Database.exe
